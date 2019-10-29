@@ -1,1 +1,1 @@
-# star-wars-api-react
+Consumindo api do star wars utilizando o React.
