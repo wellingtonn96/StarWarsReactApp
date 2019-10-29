@@ -1,0 +1,39 @@
+.logo {
+  width: 100%;
+  padding: 20px;
+}
+
+.logo img {
+  margin: auto
+}
+
+.table {
+  margin: 0 20px
+}
+
+.table-row {
+  display: flex;
+  margin: 10px;
+  background: none;
+  padding: 20px;
+  border-radius: 5px;
+  color: #ffff00d7;
+  border: 1px solid #ffff00d7
+}
+
+.table-row > span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0 5px;
+}
+
+.iteractions {
+  text-align: center;
+  width: 100%;
+  margin: 20px auto;
+}
+
+
+
+
+
